@@ -2,7 +2,7 @@
 
 A beginner-friendly, full-stack MERN (MongoDB, Express, React, Node.js) To-Do List application. It features a modern, clean, **pastel purple aesthetic** with smooth transitions and a responsive UI.
 
-## Live Demo - [Live Demo](https://task-manager-app-24.vercel.app/)
+[Live Demo](https://task-manager-app-24.vercel.app/)
 
 ##  Features
 
