@@ -1,10 +1,10 @@
-# 📝 MERN Task Manager (Pastel Edition)
+# MERN Task Manager
 
 A beginner-friendly, full-stack MERN (MongoDB, Express, React, Node.js) To-Do List application. It features a modern, clean, **pastel purple aesthetic** with smooth transitions and a responsive UI.
 
-[Live Demo](https://task-manager-app-24.vercel.app/)
+## Live Demo - [Live Demo](https://task-manager-app-24.vercel.app/)
 
-## ✨ Features
+##  Features
 
 - **Full-stack CRUD operations**: Create, Read, Update, and Delete tasks.
 - **Modern UI/UX**: Designed with a sleek, pastel purple aesthetic using Tailwind CSS.
